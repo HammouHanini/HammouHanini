@@ -1,8 +1,8 @@
 ### Hi there, I'm Hammou HANINI 👋 
 
 ## I'm an engineer student at Emines-school of industrial management.
-- 🌱 I’m currently learning everything about Data science🤣 
-- ⚡ Fun fact: I love to play football more than anything else.
+- 🌱 I’m currently learning everything about Data science
+- ⚡warp speed on 
 
 ### Connect with me:
 
