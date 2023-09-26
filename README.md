@@ -1,6 +1,6 @@
 ### Hi there, I'm Hammou HANINI 👋 
 
-## I'm a Data-scientist engineer at Emines-school of industrial management.
+## I'm a Data-Scientist engineer at Emines-school of industrial management.
 - 🌱 I’m currently learning everything about Data science
 - ⚡warp speed on 
 
